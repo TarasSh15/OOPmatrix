@@ -1,0 +1,82 @@
+4-amd
+5,16,3,1
+2,5,7,8
+1,5,2,3
+7,3,1,82
+-----Reseted matrix-----
+5,0,0,0,
+2,5,0,0,
+1,5,2,0,
+7,3,1,82,
+---End of reseted matirx---
+3-umd
+52,61,35
+2,50,87
+8,5,2
+-----Reseted matrix-----
+52,61,35,
+0,50,87,
+0,0,2,
+---End of reseted matirx---
+3-asd
+21,7,9
+2,11,1
+2,3,8
+-----Reseted matrix-----
+0,0,9,
+0,11,1,
+2,3,8,
+---End of reseted matirx---
+4-usd
+5,6,3,1
+2,5,15,8
+1,5,2,3
+7,31,1,5
+-----Reseted matrix-----
+5,6,3,1,
+2,5,15,0,
+1,5,0,0,
+7,0,0,0,
+---End of reseted matirx---
+end_of_file
+4-amd
+5,16,3,1
+2,5,7,8
+1,5,2,3
+7,3,1,82
+-----Reseted matrix-----
+5,0,0,0,
+2,5,0,0,
+1,5,2,0,
+7,3,1,82,
+---End of reseted matirx---
+3-umd
+52,61,35
+2,50,87
+8,5,2
+-----Reseted matrix-----
+52,61,35,
+0,50,87,
+0,0,2,
+---End of reseted matirx---
+3-asd
+21,7,9
+2,11,1
+2,3,8
+-----Reseted matrix-----
+0,0,9,
+0,11,1,
+2,3,8,
+---End of reseted matirx---
+4-usd
+5,6,3,1
+2,5,15,8
+1,5,2,3
+7,31,1,5
+-----Reseted matrix-----
+5,6,3,1,
+2,5,15,0,
+1,5,0,0,
+7,0,0,0,
+---End of reseted matirx---
+end_of_file
